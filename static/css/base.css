@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 240, 215);
+}
+h1{
+    color: rgb(61, 48, 30);
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+
+.mylogo {
+    height: 420px;
+    width: auto;
+    
+}
